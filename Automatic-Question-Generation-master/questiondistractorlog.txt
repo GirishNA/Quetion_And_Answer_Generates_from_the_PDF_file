@@ -1,0 +1,95 @@
+ QuestionCount: 1
+Question:When did President Nixon declare war on cancer?
+QuestionCount: 2
+Question:Did President Nixon declare war on cancer in 1971?
+Answer Phrase :Yes
+QuestionCount: 3
+Question:What did President Nixon declare in 1971?
+****************************************************************************************
+Multiple choices:2)lives on cancer	4)war on cancer	6)crises on cancer	
+****************************************************************************************
+QuestionCount: 4
+Question:Who declared war on cancer in 1971?
+****************************************************************************************
+Multiple choices:2)President Nixon	4)armstrong	6)genentech	
+****************************************************************************************
+QuestionCount: 5
+Question:What soon discovered there were many kinds of cancer?
+****************************************************************************************
+Multiple choices:2)world	4)people	6)u.s.	
+****************************************************************************************
+QuestionCount: 6
+Question:When was war on cancer only that effective, viable therapies have come to seem real?
+****************************************************************************************
+Multiple choices:2)in the last 10 time	4)in the last 10 years	6)in the last 10 first	
+****************************************************************************************
+QuestionCount: 7
+Question:Do big problems sometimes elude solution because People do not really understand the problem?
+Answer Phrase :Yes
+QuestionCount: 8
+Question:Did people soon discover there were many kinds of cancer?
+Answer Phrase :Yes
+QuestionCount: 9
+Question:What did people soon discover there were many kinds of?
+****************************************************************************************
+Multiple choices:2)of problem	4)of cancer	6)of things	
+****************************************************************************************
+QuestionCount: 10
+Question:What was only in the last 10 years that effective, viable therapies have come to seem real?
+****************************************************************************************
+Multiple choices:2)crises on cancer	4)lives on cancer	6)war on cancer	
+****************************************************************************************
+QuestionCount: 11
+Question:What sometimes elude solution because People do not really understand the problem?
+****************************************************************************************
+Multiple choices:2)big crises	4)big lives	6)big problems	
+****************************************************************************************
+QuestionCount: 12
+Question:What do big problems sometimes elude because People do not really understand the problem?
+****************************************************************************************
+Multiple choices:2)natural	4)solution	6)gas	
+****************************************************************************************
+QuestionCount: 13
+Question:Were Hard problems hard?
+Answer Phrase :Yes
+QuestionCount: 14
+Question:What did people soon discover there were?
+****************************************************************************************
+Multiple choices:2)many kinds of things	4)many kinds of cancer	6)many kinds of problem	
+****************************************************************************************
+QuestionCount: 15
+Question:Was war on cancer only in the last 10 years that effective, viable therapies have come to seem real?
+Answer Phrase :Yes
+QuestionCount: 16
+Question:What was war on cancer only in the last 10 years?
+****************************************************************************************
+Multiple choices:2)that effective, viable therapies have come to seem real	4)that effective, viable development have come to seem real	6)that effective, viable research have come to seem real	
+****************************************************************************************
+QuestionCount: 17
+Question:Do people not really understand the problem?
+Answer Phrase :Yes
+QuestionCount: 18
+Question:What do not really understand the problem?
+****************************************************************************************
+Multiple choices:2)u.s.	4)people	6)world	
+****************************************************************************************
+QuestionCount: 19
+Question:What do people not really understand?
+****************************************************************************************
+Multiple choices:2)the problem	4)the cold war	6)the things	
+****************************************************************************************
+QuestionCount: 20
+Question:What did people soon discover?
+QuestionCount: 21
+Question:What were hard?
+****************************************************************************************
+Multiple choices:2)big problems	4)Hard problems	6)small problems	
+****************************************************************************************
+Reasoning Questions:
+Why did President Nixon declare war on cancer in 1971?
+Why do big problems sometimes elude solution because People do not really understand the problem?
+Why did people soon discover there were many kinds of cancer?
+Why were Hard problems hard?
+Why was war on cancer only in the last 10 years that effective, viable therapies have come to seem real?
+Why do people not really understand the problem?
+   
